@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  in cases: computer issues (so project isn't lost with hard drive)
+  collaboration - multiple people on multiple devices - best way to work together
+  multiple devices - to work on the same project from different devices
