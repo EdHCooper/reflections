@@ -1,11 +1,20 @@
 What happens when you initialize a repository? Why do you need to do it?
+
 	You create a .git file containing history metadata
 	allows for change-tracking
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
+
 	working directory is the source of all relevant files
 	staging area is where immediately relevant (ie to be committed) files go.
 	Repository is where they go once committed.
+
 How can you use the staging area to make sure you have one commit per logical change?
+
 	check git status to see which files are in staging area
 	if there are any that aren’t part of this one logical change, remove with git reset
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	I’m probably gonna branch like a maniac. It’s always helpful if you’re indecisive. 
+	Also, though, when taking risks, or making slightly different versions (e.g. easy mode for a game) 
