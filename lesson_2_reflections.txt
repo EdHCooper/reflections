@@ -23,3 +23,8 @@ How do the diagrams help you visualize the branch structure?
 
 	By showing you which branch you’re on and which parents you have you can understand what will happen when you commit - i.e. what the impact of adding commits will be
 	Additionally, you can see what won’t be included in your branch’s history (i.e. what changes have been made and not incorporated) and which branches will be unaffected by changes
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Merging two branches together combines them by specific rules that I don’t quite get but mostly follow logic you’d come up with about which lines of code to incorporate into final merged code
+	Representing by diagram allows us to understand the pedigree, and thus to determine the relationship between it and the other commits and branches
