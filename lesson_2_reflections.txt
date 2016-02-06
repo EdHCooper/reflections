@@ -28,3 +28,9 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	Merging two branches together combines them by specific rules that I don’t quite get but mostly follow logic you’d come up with about which lines of code to incorporate into final merged code
 	Representing by diagram allows us to understand the pedigree, and thus to determine the relationship between it and the other commits and branches
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually
+
+	pro - would be way too much work if fully manual. Would be way too inaccurate if fully auto. The current method (auto but fallback to manual) is best.
+	con - more work than if fully auto.. 
+
