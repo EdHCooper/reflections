@@ -18,3 +18,8 @@ What are some situations when branches would be helpful in keeping your history 
 
 	I’m probably gonna branch like a maniac. It’s always helpful if you’re indecisive. 
 	Also, though, when taking risks, or making slightly different versions (e.g. easy mode for a game) 
+
+How do the diagrams help you visualize the branch structure?
+
+	By showing you which branch you’re on and which parents you have you can understand what will happen when you commit - i.e. what the impact of adding commits will be
+	Additionally, you can see what won’t be included in your branch’s history (i.e. what changes have been made and not incorporated) and which branches will be unaffected by changes
