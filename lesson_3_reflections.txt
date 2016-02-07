@@ -21,4 +21,7 @@ What is the benefit of having a copy of the last known state of the remote store
 	Allows you to work with it even if you’re then offline.
 	Allows you to work on making your commits merge properly with the last commit 	of the remote, so you can merge with that commit eventually even if someone 	made changes to it (added commits) since then- yours would get incorporated 	into the version before theirs, which might allow you to then merge the 		merged version with the updated remote version if it gets updated in the 		interim
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	
+	Nothing, everything.
 
